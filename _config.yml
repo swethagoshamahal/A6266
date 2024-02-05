@@ -57,16 +57,16 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: srv
-    name: Dr. S. Ravivarman
-    email: ravivarman@vardhaman.org
-    web: http://wwww.sravivarman.com
-    phone: +91 99942 77431
+  - id: SG
+    name: G.SWETHA
+    email: swetha1546@vardhaman.org
+    web: http://wwww.swethagoshamahal.com
+    phone: +91 9441804504
 
 offerings:
   - name: LECTURE
-    loc: 5103
-    instructor: srv 
+    loc: 3116
+    instructor: SG
 
 # Build settings
 markdown: kramdown
